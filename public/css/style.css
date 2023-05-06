@@ -1,0 +1,42 @@
+p, h4 {
+    margin: 0 !important;
+}
+.nav-link {
+    color: black !important;
+    padding: 0 !important;
+}
+/* FOOTER */
+.foot {
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+}
+
+.foot p {
+    color: whitesmoke;
+    font-size: 14px;
+}
+.star {
+    color: #C6A961;
+    margin-right: 5px;
+}
+
+ul {
+    padding: 0 !important;
+    justify-content: center !important;
+}
+
+.tabs {
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+}
+
+.card {
+    width: 187px;
+}
